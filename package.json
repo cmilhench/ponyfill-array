@@ -1,0 +1,30 @@
+{
+  "name": "ponyfill-array",
+  "version": "0.1.0",
+  "description": "ES6 Array ponyfills",
+  "main": "index.js",
+  "dependencies": {
+    "ponyfill-array-find": "^1.0.1",
+    "ponyfill-array-findindex": "^1.0.0",
+    "ponyfill-array-reduce": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmilhench/ponyfill-array.git"
+  },
+  "keywords": [
+    "ES6",
+    "array",
+    "find",
+    "findIndex",
+    "reduce",
+    "ponyfill",
+    "polyfill"
+  ],
+  "author": "Colin Milhench <colin@milhen.ch> (http://milhen.ch/)",
+  "license": "MIT"
+}
